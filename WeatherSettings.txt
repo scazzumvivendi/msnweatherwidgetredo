@@ -1,0 +1,6 @@
+WeatherLocation=Como, IT, Lombardia
+WeatherLocationCode=214043
+DisplayDegreesIn=Celsius
+WeatherLocationLatitude=45.811
+WeatherLocationLongitude=9.082
+WeatherLocationTimezoneOffset=2
